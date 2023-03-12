@@ -6,36 +6,27 @@
         height: 500px;
     }
 
-
     .section_2 {
         width: auto;
         height: 500px;
-
     }
-
 
     .imagen {
         width: 80%;
         height: auto;
         background-position: center;
-
     }
-
-
-
 
     .ventana-derecha {
         height: 500px;
         width: 80%;
         margin-top: 40px;
-
     }
 
     .boton-encriptar,
     .boton-desencriptar {
-    width: 30%;
-}
-
+        width: 30%;
+    }
 
 }
 
@@ -47,8 +38,6 @@
         height: auto;
         background-position: center;
         text-align: center;
-
-
     }
 
     .section_1 {
@@ -61,8 +50,6 @@
         height: 500px;
         width: 80%;
         text-align: center;
-     
-
     }
 
 
@@ -70,26 +57,18 @@
         display: inline-table;
         width: auto;
         height: auto;
-        
         text-align: center;
     }
 
-
     .boton-encriptar,
     .boton-desencriptar {
-    width: 30%;
-}
-
-
+        width: 30%;
+    }
 
 }
-
-
 
 /* TELEFONO HORIZONTAL O TABLET VERTICAL*/
 @media (max-width: 767px) {
-
-
     main {
         flex-direction: column;
     }
@@ -103,28 +82,27 @@
         display: contents;
 
     }
+
     .section_2 {
         display: inline-table;
         width: auto;
         height: auto;
         text-align: center;
     }
+
     .ventana-derecha {
         width: 90%;
         height: auto;
         margin: 0 auto;
-       
+
     }
 
     .boton-encriptar,
     .boton-desencriptar {
-    width: 30%;
-}
-
-
+        width: 30%;
+    }
 
 }
-
 
 /* TELEFONO VERTICAL*/
 @media (max-width: 480px) {
@@ -134,21 +112,12 @@
         margin: 0 auto;
     }
 
-    
-.boton{
-   
-    display: flex;
-    flex-direction: column;
-    
-    
-}
+    .boton {
+        display: flex;
+        flex-direction: column;
+    }
 
-
-.boton-encriptar,
-.boton-desencriptar {
-
-width: auto;
-
-
-
-}
+    .boton-encriptar,
+    .boton-desencriptar {
+        width: auto;
+    }

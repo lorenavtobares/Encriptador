@@ -27,8 +27,6 @@ function encriptar() {
     document.getElementById("boton-copiar").style.display = "inherit";
     document.getElementById("mostrando-texto").style.display = "block";  /* muestra el textarea*/
     
-
-
     document.getElementById("boton-limpiar").style.display = "show";
     document.getElementById("boton-limpiar").style.display = "inherit";
 
@@ -69,8 +67,5 @@ function limpiar() {
     document.getElementById("texto-derecha").style.display = "block";
     //document.getElementById("mostrando-texto").value = " ";
     //document.getElementById("IngresoTexto").value = " ";
-
-
-
     location.reload(); //vuelve a cargar la pagina
 }

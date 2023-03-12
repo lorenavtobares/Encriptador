@@ -3,11 +3,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
- 
 }
 
 
-html{
+html {
     background-image: linear-gradient(to top, #b3ffab 0%, #12fff7 100%);
 }
 
@@ -16,22 +15,15 @@ body {
     min-height: 100vh;
     justify-content: center;
     font-family: 'Gowun Dodum', sans-serif;
-
 }
-
-
-
-
 
 header {
     /* encabezado */
     width: 100%;
     height: 60px;
-
 }
 
 header img {
-    /*imagen del encabezado */
     margin: 10px;
 }
 
@@ -39,16 +31,14 @@ main {
     width: 100%;
     display: flex;
     /*flex-flow: row nowrap;*/
-    margin: 10px 10px 10px 10px; 
+    margin: 10px 10px 10px 10px;
     padding: auto;
-
 }
 
 .section_1 {
     margin: 40px;
     border-radius: 10px;
     border: none;
-
 }
 
 .text-area {
@@ -61,18 +51,17 @@ main {
     font-size: 20px;
     border-radius: 10px;
     border: none;
-    text-transform: lowercase; /*convierte el texto en minuscula */
-
+    text-transform: lowercase;
+    /*convierte el texto en minuscula */
 }
-
 
 .boton {
     text-align: center;
     margin-top: 40px;
-
 }
 
-.boton-encriptar, .boton-desencriptar {
+.boton-encriptar,
+.boton-desencriptar {
     color: black;
     height: 40px;
     border-radius: 10px;
@@ -80,30 +69,19 @@ main {
     margin: 5px;
     margin-top: 30px;
     display: inline-block;
-    background-color:teal;
-
-
+    background-color: teal;
 }
 
-
-
-
 .section_2 {
-
-
     margin: 40px;
     border-radius: 20px;
     margin-top: 60px;
-
 }
 
-
 .imagen {
-
     padding-top: 20px;
     text-align: center;
 }
-
 
 .subtitulo {
     text-align: center;
@@ -111,11 +89,9 @@ main {
     margin-top: 20px;
 }
 
-
-#mostrando-texto{
+#mostrando-texto {
     display: none;
 }
-
 
 .ventana-derecha {
     height: auto;
@@ -125,7 +101,6 @@ main {
     font-size: 20px;
     border-radius: 10px;
     border: none;
-
 }
 
 .boton-copiar {
@@ -139,14 +114,13 @@ main {
     margin-top: 30px;
     border: none;
     color: black;
-    background-color:teal;
+    background-color: teal;
     padding-left: 50px;
     padding-right: 50px;
 }
 
 #boton-copiar {
     display: none;
-    
 }
 
 .boton-limpiar {
@@ -159,7 +133,7 @@ main {
     text-align: center;
     border: none;
     color: black;
-    background-color:teal;
+    background-color: teal;
 }
 
 #boton-limpiar {
@@ -250,7 +224,6 @@ footer {
     width: 22px;
     height: auto;
     margin: 5px;
-
 }
 
 p {
