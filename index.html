@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap" rel="stylesheet">
+   
+    <title> Encriptador </title> <!--  titulo ventana  -->
+</head>
+
+<body> <!--  contiene todo lo que se va a mostrar  -->
+    
+    
+
+    <header> <!--  encabezado  -->
+        <img src="imagenes/a.png" alt=" logo alura">
+
+    </header>
+
+    <main> <!--  cuerpo  -->
+
+        <section class="section_1"> <!--  se utiliza para dividir las partes de la pantalla  -->
+
+            <textarea name="text-area" class="text-area" id="IngresoTexto" cols="30" rows="10"
+                placeholder=" Ingrese su texto" autofocus></textarea>
+
+            <div class="boton">
+
+                <button class="boton-encriptar" id="boton-encriptar" onclick="encriptar()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+
+                    Encriptar
+                </button>
+
+                <button class="boton-desencriptar" id="boton-desencriptar" onclick="desencriptar()">
+
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+
+                    Desencriptar
+                </button>
+
+            </div>
+
+        </section>
+
+        <section class="section_2"> <!--  se utiliza para dividir las partes de la pantalla  -->
+            <div>
+                <img src="imagenes/buscador.png" alt="chica con una lupa" class="imagen" id="img-derecha">
+            </div>
+
+            <div class="subtitulo">
+                <h3 id="texto-derecha"> No se encontro ningun mensaje</h3>
+
+            </div>
+
+
+
+            <textarea name="name" class="ventana-derecha" id="mostrando-texto" autofocus cols="30" rows="10"></textarea>
+
+
+
+
+            <button class="boton-copiar" id="boton-copiar" type="button" onclick="botonCopiar()">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+
+                Copiar
+            </button>
+
+
+
+
+            <button class="boton-limpiar" type="reset" id="boton-limpiar" onclick="limpiar()">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+
+                Limpiar pantalla
+            </button>
+
+
+        </section>
+
+    </main>
+
+
+
+</body>
+
+<footer class="pie"> <!--  pie de pagina  -->
+
+    
+        <a href="https://github.com/lorenavtobares"> <img  class=" icono" src="imagenes/github.png" alt="icono github" class="github">
+        </a>
+        <a href="https://www.linkedin.com/in/lorenav-tobares/"> <img  class=" icono" src="imagenes/linkedin.png" alt="icono linkedin"
+                class="linkedin"></a>
+    
+
+    <p class="Copyright"> &copy Copyright Tobares Lorena - 2023</p>
+
+</footer>
+
+<script type="text/javascript" src="script.js"></script> <!-- ruta de java  -->
+
+</html>
