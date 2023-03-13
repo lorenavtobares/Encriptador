@@ -39,12 +39,12 @@ Extras:
 
 - Profundizando en el uso de   **JavaScript**  para agregar funcionalidades al sistema.
 
-<h3> Elementos principales de la página </h3>
-- Título de su sitio web
-- Campo para el texto que va a ser encriptado/desencriptado
-- Un botón para encriptar
-- Un botón para desencriptar
-- Área para mostrar el texto encriptado/desencriptado.
+<h3> Elementos principales de la página. </h3>
+- Título de su sitio web. <br>
+- Campo para el texto que va a ser encriptado/desencriptado. <br>
+- Un botón para encriptar. <br>
+- Un botón para desencriptar. <br>
+- Área para mostrar el texto encriptado/desencriptado. <br>
 
 Extra!
 - Un rodapie con los datos de la persona que desarrolló el sitio web!
