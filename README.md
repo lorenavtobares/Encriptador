@@ -46,9 +46,9 @@ Extras:
 - Un botón para desencriptar. <br>
 - Área para mostrar el texto encriptado/desencriptado. <br>
 <br>
-Extra!
+Extra! <br>
 - Un rodapie con los datos de la persona que desarrolló el sitio web!
-     
+<br>     
 
 <h2> Herramientas usadas </h2>
 
