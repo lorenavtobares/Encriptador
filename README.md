@@ -37,7 +37,7 @@ Extras:
 
 -  Implementacion de los proyectos con **HTML, CSS** y **JavaScript.**
 
-- Profundizando en el uso de** JavaScript** para agregar funcionalidades al sistema.
+- Profundizando en el uso de ** JavaScript** para agregar funcionalidades al sistema.
 
 
 
