@@ -5,7 +5,7 @@
 
 ----
 
-# Descripcion del challenge
+<h1> Descripcion del challenge </h1>
 
  Se pide una aplicación que encripta textos, así poder intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
@@ -33,12 +33,11 @@ El resultado debe ser mostrado en la pantalla.
 Extras:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
 
-####¿Cómo estará dividido este Challenge?
+<h3> ¿Cómo estará dividido este Challenge? </h3>
 
 -  Implementacion de los proyectos con **HTML, CSS** y **JavaScript.**
 
 - Profundizando en el uso de** JavaScript** para agregar funcionalidades al sistema.
-
 
 
 
@@ -53,11 +52,7 @@ Extra!
 - Un rodapie con los datos de la persona que desarrolló el sitio web!
      
 
-
-
-
-
-##Herramientas usadas
+<h2> Herramientas usadas </h2>
 
 - Trello
    -  Herramienta  usada para gestionar el desarrollo del proyecto.
@@ -65,7 +60,7 @@ Extra!
    - Plantilla propuesta para la implementación de este desafío.
 
    
-#Insignias 
+<h2> Insignias </h2>
 
 ![](https://github.com/lorenavtobares/Encriptador/blob/main/imagenes/insignia.png?raw=true)
 
