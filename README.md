@@ -42,7 +42,7 @@ Extras:
 
 
 
-#### Elementos principales de la página
+<h3> Elementos principales de la página </h3>
 - Título de su sitio web
 - Campo para el texto que va a ser encriptado/desencriptado
 - Un botón para encriptar
