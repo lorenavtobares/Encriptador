@@ -37,9 +37,7 @@ Extras:
 
 -  Implementacion de los proyectos con **HTML, CSS** y **JavaScript.**
 
-- Profundizando en el uso de ** JavaScript** para agregar funcionalidades al sistema.
-
-
+- Profundizando en el uso de   **JavaScript**  para agregar funcionalidades al sistema.
 
 <h3> Elementos principales de la página </h3>
 - Título de su sitio web
