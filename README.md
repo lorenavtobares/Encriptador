@@ -4,15 +4,7 @@
 
 
 ----
-**Table of Contents**
 
-[TOCM]
-
-
-
-[TOC]
-
----
 # Descripcion del challenge
 
  Se pide una aplicación que encripta textos, así poder intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
