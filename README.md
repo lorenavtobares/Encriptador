@@ -1,4 +1,3 @@
-# Encriptador
 #  Encriptador de texto 
 ![](https://github.com/lorenavtobares/Encriptador/blob/main/imagenes/httpslorenavtobares.github.ioEncriptador.png?raw=true)
 > Encriptador en distintos dispositivos.
