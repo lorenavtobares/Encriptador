@@ -1,5 +1,5 @@
 #  Encriptador de texto 
-![](https://github.com/lorenavtobares/Encriptador/blob/main/imagenes/readme.png?raw=true)
+![](https://github.com/lorenavtobares/Encriptador/blob/main/imagenes/miniatura.png?raw=true)
 > Encriptador en distintos dispositivos.
 
 
