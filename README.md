@@ -1,6 +1,6 @@
 #  Encriptador de texto 
 ![](https://github.com/lorenavtobares/Encriptador/blob/main/imagenes/Miniatura.png?raw=true)
-> Encriptador en distintos dispositivos.
+> Encriptador en PC.
 
 
 ----
